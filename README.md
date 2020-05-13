@@ -1,2 +1,2 @@
 # av1-tecnologia-para-web-I
-Trabalho da disciplina Tecnologia para Web l, da Universidade Estácio de Sá, ministrada pelo professor Andre Eppinghaus.
+Trabalho apresentado para avaliação na disciplina de Tecnologia para Internet I, do curso de Ciências da Computação, turno noturno, da Universidade Estácio de Sá. Minisitrado pelo professor Andre Eppinghaus.
